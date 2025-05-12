@@ -15,7 +15,7 @@ st.sidebar.empty()
 
 # Logo et titre
 st.image("logo.png", width=120)  # Assure-toi d’avoir un logo à ce chemin
-st.title("Bienvenue sur PressingApp")
+st.title("Bienvenue Chez Bing Pressing")
 st.markdown("### Gérez votre pressing efficacement, en toute simplicité.")
 
 # Zone d'informations
